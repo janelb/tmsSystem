@@ -1,0 +1,8 @@
+{
+  "timestamp": 1535975143376,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "java.lang.RuntimeException",
+  "message": "com.netflix.client.ClientException: Load balancer does not have available server for client: MOVIE-SERVICE.PROVIDER",
+  "path": "/movie/new"
+}

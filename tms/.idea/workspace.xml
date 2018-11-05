@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/shiro/CustomerFilterChainDefinition.java" line="69" />
+    <bookmark url="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/AccountController.java" line="71" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf013dea-3e8a-44d4-a9d1-1088998a0334" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/tms-parent/target/" />
+    <ignored path="$PROJECT_DIR$/tms-scenic/target/" />
+    <ignored path="$PROJECT_DIR$/tms-scenic/tms-scenic-service/target/" />
+    <ignored path="$PROJECT_DIR$/tms-scenic/tms-scenic-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/tms-scenic/tms-scenic-api/target/" />
+    <ignored path="$PROJECT_DIR$/tms-scenic/tms-scenic-web/target/" />
+    <ignored path="$PROJECT_DIR$/tms-common/target/" />
+    <ignored path="$PROJECT_DIR$/tms-system/target/" />
+    <ignored path="$PROJECT_DIR$/tms-system/tms-system-service/target/" />
+    <ignored path="$PROJECT_DIR$/tms-system/tms-system-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/tms-system/tms-system-web/target/" />
+    <ignored path="$PROJECT_DIR$/tms-storage/target/" />
+    <ignored path="$PROJECT_DIR$/tms-storage/tms-storage-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/tms-storage/tms-storage-service/target/" />
+    <ignored path="$PROJECT_DIR$/tms-storage/tms-storage-web/target/" />
+    <ignored path="$PROJECT_DIR$/tms-finance/target/" />
+    <ignored path="$PROJECT_DIR$/tms-finance/tms-finance-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/tms-finance/tms-finance-web/target/" />
+    <ignored path="$PROJECT_DIR$/tms-finance/tms-finance-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/config/JavaConfig.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/shiro/CustomerFilterChainDefinition.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/layout.html" />
+        <option value="$PROJECT_DIR$/tms-common/src/main/java/com/libang/tms/entity/Account.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/impl/RoleermissionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/exception/NotFindException.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/exception/ControllerAdviceHandler.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/resources/mapper/AccountMapper.xml" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service/src/main/java/com/libang/tms/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/AccountController.java" />
+        <option value="$PROJECT_DIR$/tms-common/src/main/java/com/libang/tms/entity/Permission.java" />
+        <option value="$PROJECT_DIR$/tms-common/src/main/java/com/libang/tms/exception/ServiceException.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/PermissionController.java" />
+        <option value="$PROJECT_DIR$/tms-common/src/main/java/com/libang/tms/entity/Roles.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/resources/mapper/RolesMapper.xml" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/RolesController.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service/src/main/java/com/libang/tms/service/RolePermissionService.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/impl/RolePermissionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/resources/mapper/PermissionMapper.xml" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/shiro/ShiroRealm.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/manage/a.html" />
+        <option value="$PROJECT_DIR$/tms-common/src/main/java/com/libang/tms/entity/TicketStoreExample.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/fileStore/QiniuStore.java" />
+        <option value="$PROJECT_DIR$/tms-common/src/main/java/com/libang/tms/entity/StoreAccount.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/resources/mapper/StoreAccountMapper.xml" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/resources/mapper/TicketStoreMapper.xml" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service/src/main/java/com/libang/tms/service/TicketStoreService.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/TicketStoreController.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/impl/TicketStoreServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/TicketStoreMapper.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/StoreLoginLogMapper.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/StoreAccountMapper.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/RolesPermissionMapper.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/RolesMapper.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/PermissionMapper.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/AccountRolesMapper.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/AccountMapper.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/AccountLoginLogMapper.java" />
+        <option value="$PROJECT_DIR$/tms-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/tms-storage/tms-storage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-storage/tms-storage-web/src/main/java/com/libang/tms/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/tms-storage/tms-storage-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-storage/tms-storage-service-impl/src/main/java/com/libang/tms/impl/TicketServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tms-storage/tms-storage-web/src/main/java/com/libang/tms/controller/TicketController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\localRepository" />
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tms-system-service-impl" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tms-system-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="44" />
+    <option name="y" value="85" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+    <property name="settings.editor.splitter.proportion" value="0.25110132" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\temSystem\tms\tms-system\tms-system-web\src\main\resources\templates\store" />
+      <recent name="E:\temSystem\tms\tms-system\tms-system-web\src\main\resources\templates" />
+      <recent name="E:\temSystem\tms\tms-system\tms-system-service-impl\src\main\resources\mapper" />
+      <recent name="E:\temSystem\tms\tms-system\tms-system-service-impl\src\main\java\com\libang\tms\mapper" />
+      <recent name="E:\temSystem\tms\tms-common\src\main\java\com\libang\tms\entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TmsSystemWebApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TmsFinanceServiceImplApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tms-finance-service-impl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.libang.tms.TmsFinanceServiceImplApplication" />
+    </configuration>
+    <configuration name="TmsFinanceWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tms-finance-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.libang.tms.TmsFinanceWebApplication" />
+    </configuration>
+    <configuration name="TmsScenicServiceImplApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tms-scenic-service-impl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.libang.tms.TmsScenicServiceImplApplication" />
+    </configuration>
+    <configuration name="TmsScenicWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tms-scenic-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.libang.tms.TmsScenicWebApplication" />
+    </configuration>
+    <configuration name="TmsStorageServiceImplApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tms-storage-service-impl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.libang.tms.TmsStorageServiceImplApplication" />
+    </configuration>
+    <configuration name="TmsStorageWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tms-storage-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.libang.tms.TmsStorageWebApplication" />
+    </configuration>
+    <configuration name="TmsSystemServiceImplApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tms-system-service-impl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.libang.tms.TmsSystemServiceImplApplication" />
+    </configuration>
+    <configuration name="TmsSystemWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tms-system-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.libang.tms.TmsSystemWebApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.TmsFinanceWebApplication" />
+      <item itemvalue="Spring Boot.TmsScenicWebApplication" />
+      <item itemvalue="Spring Boot.TmsFinanceServiceImplApplication" />
+      <item itemvalue="Spring Boot.TmsScenicServiceImplApplication" />
+      <item itemvalue="Spring Boot.TmsSystemServiceImplApplication" />
+      <item itemvalue="Spring Boot.TmsStorageServiceImplApplication" />
+      <item itemvalue="Spring Boot.TmsStorageWebApplication" />
+      <item itemvalue="Spring Boot.TmsSystemWebApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf013dea-3e8a-44d4-a9d1-1088998a0334" name="Default" comment="" />
+      <created>1535605233273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535605233273</updated>
+      <workItem from="1535605238733" duration="2606000" />
+      <workItem from="1535612325552" duration="264000" />
+      <workItem from="1535615135287" duration="23362000" />
+      <workItem from="1535675837340" duration="31653000" />
+      <workItem from="1535762044324" duration="13132000" />
+      <workItem from="1535776710410" duration="3829000" />
+      <workItem from="1535782955802" duration="2513000" />
+      <workItem from="1535785516383" duration="7000" />
+      <workItem from="1535785546666" duration="57000" />
+      <workItem from="1535785694890" duration="103000" />
+      <workItem from="1535785825745" duration="10000" />
+      <workItem from="1539673387593" duration="107000" />
+      <workItem from="1539673546837" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77682000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50226927" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.17269737" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3184569" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" weight="0.0" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2713816" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.1299342" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4977307" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.2246596" />
+      <window_info anchor="bottom" id="Problems" order="8" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32980332" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848714" weight="0.47368422" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.64638156" />
+      <window_info anchor="bottom" id="Messages" order="15" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" sideWeight="0.5015129" side_tool="true" weight="0.32894737" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32980332" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2713816" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tms-common/src/main/java/com/libang/tms/entity/StoreAccountExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-common/src/main/java/com/libang/tms/entity/TicketStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/manage/a.html" />
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-common/src/main/java/com/libang/tms/entity/TicketStoreExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/fileStore/QiniuStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-common/src/main/java/com/libang/tms/entity/StoreAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="79" column="19" lean-forward="true" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/resources/mapper/StoreAccountMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="126" column="22" lean-forward="true" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/resources/mapper/TicketStoreMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="142" column="18" lean-forward="true" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/impl/TicketStoreServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="137" column="5" lean-forward="true" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/blank.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/store/info.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service/src/main/java/com/libang/tms/service/TicketStoreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/store/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service/src/main/java/com/libang/tms/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="51" column="7" lean-forward="true" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/subject/Subject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/shiro/ShiroRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="109" column="30" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/TicketStoreController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2758">
+          <caret line="138" column="16" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/TicketStoreMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/StoreLoginLogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/StoreAccountMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/RolesPermissionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/RolesMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/PermissionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/AccountRolesMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/AccountMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/mapper/AccountLoginLogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/java/com/libang/tms/TmsSystemServiceImplApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/TmsSystemWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/libang/tms-common/0.0.1-SNAPSHOT/tms-common-0.0.1-SNAPSHOT.jar!/com/libang/tms/dto/ResponseBean.class" />
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="90" column="47" lean-forward="true" selection-start-line="90" selection-start-column="47" selection-end-line="90" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-system/tms-system-web/src/main/java/com/libang/tms/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1708">
+          <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-storage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-storage/tms-storage-service/src/main/java/com/libang/tms/service/TicketService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-storage/tms-storage-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1675">
+          <caret line="67" column="57" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-storage/tms-storage-service-impl/src/main/java/com/libang/tms/impl/TicketServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-storage/tms-storage-web/src/main/java/com/libang/tms/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-storage/tms-storage-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="37" column="55" lean-forward="true" selection-start-line="37" selection-start-column="55" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms-storage/tms-storage-web/src/main/java/com/libang/tms/controller/TicketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tms.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tms-system-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

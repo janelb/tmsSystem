@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-scenic/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-scenic/tms-scenic-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-scenic/tms-scenic-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-system/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-system/tms-system-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-storage/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-storage/tms-storage-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-storage/tms-storage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-finance/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-finance/tms-finance-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/tms-finance/tms-finance-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

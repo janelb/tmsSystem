@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../tms-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-finance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-finance/tms-finance-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-finance/tms-finance-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-finance/tms-finance-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-scenic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-scenic/tms-scenic-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-scenic/tms-scenic-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-scenic/tms-scenic-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-storage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-storage/tms-storage-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-storage/tms-storage-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-storage/tms-storage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-system/tms-system-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-system/tms-system-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tms-system/tms-system-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

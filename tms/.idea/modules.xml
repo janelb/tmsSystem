@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tms.iml" filepath="$PROJECT_DIR$/tms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-finance/tms-finance.iml" filepath="$PROJECT_DIR$/tms-finance/tms-finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-finance/tms-finance-service/tms-finance-service.iml" filepath="$PROJECT_DIR$/tms-finance/tms-finance-service/tms-finance-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-finance/tms-finance-service-impl/tms-finance-service-impl.iml" filepath="$PROJECT_DIR$/tms-finance/tms-finance-service-impl/tms-finance-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-finance/tms-finance-web/tms-finance-web.iml" filepath="$PROJECT_DIR$/tms-finance/tms-finance-web/tms-finance-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-parent/tms-parent.iml" filepath="$PROJECT_DIR$/tms-parent/tms-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-scenic/tms-scenic.iml" filepath="$PROJECT_DIR$/tms-scenic/tms-scenic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-scenic/tms-scenic-service/tms-scenic-service.iml" filepath="$PROJECT_DIR$/tms-scenic/tms-scenic-service/tms-scenic-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-scenic/tms-scenic-service-impl/tms-scenic-service-impl.iml" filepath="$PROJECT_DIR$/tms-scenic/tms-scenic-service-impl/tms-scenic-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-scenic/tms-scenic-web/tms-scenic-web.iml" filepath="$PROJECT_DIR$/tms-scenic/tms-scenic-web/tms-scenic-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-storage/tms-storage.iml" filepath="$PROJECT_DIR$/tms-storage/tms-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-storage/tms-storage-service/tms-storage-service.iml" filepath="$PROJECT_DIR$/tms-storage/tms-storage-service/tms-storage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-storage/tms-storage-service-impl/tms-storage-service-impl.iml" filepath="$PROJECT_DIR$/tms-storage/tms-storage-service-impl/tms-storage-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-storage/tms-storage-web/tms-storage-web.iml" filepath="$PROJECT_DIR$/tms-storage/tms-storage-web/tms-storage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-system/tms-system.iml" filepath="$PROJECT_DIR$/tms-system/tms-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-system/tms-system-service/tms-system-service.iml" filepath="$PROJECT_DIR$/tms-system/tms-system-service/tms-system-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-system/tms-system-service-impl/tms-system-service-impl.iml" filepath="$PROJECT_DIR$/tms-system/tms-system-service-impl/tms-system-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms-system/tms-system-web/tms-system-web.iml" filepath="$PROJECT_DIR$/tms-system/tms-system-web/tms-system-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tms-common" />
+        <module name="tms-finance-service" />
+        <module name="tms-finance-service-impl" />
+        <module name="tms-finance-web" />
+        <module name="tms-scenic-service" />
+        <module name="tms-scenic-service-impl" />
+        <module name="tms-scenic-web" />
+        <module name="tms-storage-service" />
+        <module name="tms-storage-service-impl" />
+        <module name="tms-storage-web" />
+        <module name="tms-system-service" />
+        <module name="tms-system-service-impl" />
+        <module name="tms-system-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

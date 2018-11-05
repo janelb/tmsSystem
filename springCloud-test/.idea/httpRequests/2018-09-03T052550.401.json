@@ -1,0 +1,7 @@
+{
+  "timestamp": 1535966750206,
+  "status": 401,
+  "error": "Unauthorized",
+  "message": "Bad credentials",
+  "path": "/shutdown"
+}
